@@ -152,7 +152,7 @@ const NEWS = {
 
     "Respecto a las versiones sobre presuntas irregularidades en la adjudicación de las obras y a unos audios atribuidos a funcionarios municipales, la comuna señaló que no existe, hasta el momento, una investigación que haya establecido responsabilidades y cuestionó la difusión de información cuyo contexto no ha sido esclarecido.",
 
-    "En Altisur, algunos vecinos han expresado preocupación por la aparición de grietas en determinadas viviendas. Asimismo, tras las últimas lluvias se reportó el colapso parcial de dos techos. La municipalidad indicó que se trata de casos puntuales que vienen siendo evaluados y que no deberían generalizarse a todo el proyecto.",
+    "Algunos vecinos han expresado preocupación por la aparición de grietas en determinadas viviendas. Asimismo, tras las últimas lluvias se reportó el colapso parcial de dos techos. La municipalidad indicó que se trata de casos puntuales que vienen siendo evaluados y que no deberían generalizarse a todo el proyecto.",
 
     "El alcalde reiteró que las condiciones de la zona han sido evaluadas por las áreas correspondientes y que la municipalidad continuará supervisando las viviendas y el desarrollo de las obras.",
 
@@ -165,7 +165,7 @@ const NEWS = {
   comentarios: [
 
     { 
-      autor: "vecina_nh", 
+      autor: "Cecilia_Álamo", 
       texto: "Mi tío gastó todos sus ahorros en construir en una zona que supuestamente era apta y ahora teme porque no se siente seguro allí. Exigimos justicia." 
     },
 
